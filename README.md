@@ -12,7 +12,7 @@ The model is trained using **TensorFlow/Keras** and deployed with **OpenCV** for
 ## Project Structure
 
 
-## 🚀 Features
+## Features
 - **Custom dataset support**.
 - **Real-time face mask detection** using a webcam.
 - **Train/test split automation**.
@@ -21,7 +21,7 @@ The model is trained using **TensorFlow/Keras** and deployed with **OpenCV** for
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Python 3.8+**
 - **TensorFlow/Keras**
 - **OpenCV**
@@ -30,7 +30,7 @@ The model is trained using **TensorFlow/Keras** and deployed with **OpenCV** for
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -68,3 +68,4 @@ This project is open-source under the MIT License.
 ## Author
 - Name: Nikhil Mahesh
 - E-mail: nikhilmahesh89@gmail.com
+
