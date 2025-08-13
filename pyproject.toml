@@ -1,0 +1,17 @@
+[project]
+name = "recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.3.0",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.20.0",
+]
